@@ -21,7 +21,7 @@ class Stack:
 
     def is_empty(self):
         return self.top is None
-
+#hi
 
 while True:
     html_input = input("Enter HTML code (or type 'exit' to quit): ")
